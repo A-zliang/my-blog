@@ -3,7 +3,7 @@
         <div class="col-md-9 title">
             <div class="list-group-item-heading">
                 <strong>
-                    Android框架设计理念
+                    Android框架设计理念0
                     <router-link to='/Article'>1111</router-link>
                 </strong>
             </div>
